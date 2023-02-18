@@ -1,4 +1,4 @@
-# NVIDIA NeMo
+# NVIDIA NeMo for sciCORE
 
 NeMo: [https://github.com/NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)
 
