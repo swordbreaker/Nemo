@@ -178,4 +178,8 @@ examples/neural_graphs/*.yml
 
 .hydra/
 nemo_experiments/
+exp/
 
+data/swissDial/sup_data/
+log/
+core.*
