@@ -43,7 +43,7 @@ model:
   mel_fmin: 0.0
   mel_fmax: null
 
-  n_speakers: 0
+  n_speakers: 8
   segment_size: 8192
   c_mel: 45
   c_kl: 1.

@@ -183,3 +183,4 @@ exp/
 data/swissDial/sup_data/
 log/
 core.*
+*.nemo
